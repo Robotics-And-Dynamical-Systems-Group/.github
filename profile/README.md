@@ -1,4 +1,4 @@
-# **Welcome to the Robotics And Dynamical Systems Group!**
+# **[Welcome to the Robotics And Dynamical Systems Group!](https://labs.engineering.asu.edu/rads/)**
 
 - This group is led by **Dr. Sangram Redkar** and located at the ASU Polytechnic School. 
 - The group comprises 12 Ph.D. students, four MS students, and a few undergraduate researchers. 
